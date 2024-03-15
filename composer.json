@@ -1,0 +1,8 @@
+{
+    "require": {
+        "tecnickcom/tcpdf": "*",
+        "dompdf/dompdf": "^2.0",
+        "zendframework/zend-barcode": "^2.5",
+        "bacon/bacon-qr-code": "^2.0"
+    }
+}
